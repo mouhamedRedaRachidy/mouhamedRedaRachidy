@@ -18,7 +18,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="https://www.instagram.com/yamilobt_8/" target="_blank">
+  <a href="https://www.instagram.com/reda.rvvvchidy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="mailto:yamilo12345678910@gmail.com" target="_blank">
@@ -27,9 +27,7 @@
   <a href="https://www.linkedin.com/in/khalid-azaanoun-a0585425b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCNOZmjNaJLbegZqafFuK6NQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=youtube&logo=youtube&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
+
   <a href="https://leetcode.com/u/mouhamedRedaRachidy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
@@ -50,8 +48,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="django" width="70" height="40"/>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="70" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -68,6 +66,15 @@
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="40" height="40"/>
+    </a>
+     <a href="" target="_blank" rel="noreferrer">
+    <img src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG-Images.png" alt="tailwind" width="40" height="40"/>
+    </a>
+   <a href="" target="_blank" rel="noreferrer">
+    <img src="https://logodix.com/logo/1982136.jpg" alt="tailwind" width="40" height="40"/>
+    </a>
 </p>
 
 
