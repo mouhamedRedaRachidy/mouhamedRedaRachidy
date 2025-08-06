@@ -1,7 +1,7 @@
 <h3 align="center">self-taught</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/3b/52/5b/3b525b51ce6d6b91a555a80fcf41597d.jpg" alt="Kirby eating an endless stream of data" width="1500" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Kirby eating an endless stream of data" width="1500" height="350" />
 </p>
 
 <h3 align="center">Stats:</h3>
@@ -21,10 +21,10 @@
   <a href="https://www.instagram.com/reda.rvvvchidy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mailto:yamilo12345678910@gmail.com" target="_blank">
+  <a href="mailto:mouhamedredarachidy@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/khalid-azaanoun-a0585425b/" target="_blank">
+  <a href="https://www.linkedin.com/in/mouhamed-reda-rachidy-31a1082b5/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 
@@ -79,6 +79,6 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/31/3b/bc/313bbcac825384bd0a7c2ced591f3a30.gif" alt="Kirby eating an endless stream of data" width="1500"  />
+  <img src="https://raw.githubusercontent.com/yamilobt8/yamilobt8/refs/heads/main/green.gif" alt="Kirby eating an endless stream of data" width="1500"  />
 </p>
 <h3 align="center">"Coding is not just a skill, it's an art!"</h3>
