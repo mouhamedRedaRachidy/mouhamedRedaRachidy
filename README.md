@@ -81,4 +81,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/yamilobt8/yamilobt8/refs/heads/main/green.gif" alt="Kirby eating an endless stream of data" width="1500"  />
 </p>
-<h3 align="center">"Coding is not just a skill, it's an art!"</h3>
+<h3 align="center">"Coding is not just a skill, it's an art !"</h3>
