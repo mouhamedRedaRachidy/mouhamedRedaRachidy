@@ -10,7 +10,7 @@
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=mouhamedRedaRachidy&color=blueviolet" alt="GitHub Profile Views Counter" />
 </p>
-
+ 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mouhamedRedaRachidy&show_icons=true&theme=radical&hide_border=true&v=14"/>
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=mouhamedRedaRachidy&theme=radical&hide_border=true&v=14"/>
