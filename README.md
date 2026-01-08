@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Kirby eating an endless stream of data" width="1500" height="350" />
 </p>    
       
-<h3 align="center">Stats:</h3>    
+<h3 align="center"> Stats:</h3>    
 
 
 <p align="center">  
