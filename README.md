@@ -1,16 +1,15 @@
-<h1  align="center">  Softwer Developer  </h1>
+<h1 align="center">Software Developer</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Kirby eating an endless stream of data" width="1500" height="350" />
-</p>    
-      
-<h3 align="center"> Stats:</h3>    
+</p>
 
+<h3 align="center">Stats:</h3>
 
-<p align="center">  
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mouhamedRedaRachidy&color=blueviolet" alt="GitHub Profile Views Counter" />
 </p>
- 
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mouhamedRedaRachidy&show_icons=true&theme=radical&hide_border=true&v=14"/>
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=mouhamedRedaRachidy&theme=radical&hide_border=true&v=14"/>
@@ -20,15 +19,14 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   <a href="https://www.instagram.com/reda.rvvvchidy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="mailto:mouhamedredarachidy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/mouhamed-reda-rachidy-31a1082b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-
   <a href="https://leetcode.com/u/mouhamed_reda_rachidy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
@@ -36,84 +34,82 @@
 
 <br clear="both">
 
-<!-- Java -->
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-
-<!-- Jakarta EE (Utilisation de l'icône Java Enterprise) -->
-<a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jakarta_ee/jakarta_ee-icon.svg" alt="jakarta-ee" width="40" height="40"/>
-</a>
-
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-</a>
-
-<!-- Kubernetes -->
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-</a>
-
-<!-- Kafka -->
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-</a>
-
-<!-- PHP -->
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-
-<!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-</a>
-
-<!-- Jenkins -->
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-</a>
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-<h3 align="left">Languages and Tools :</h3>
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <!-- Backend & Languages -->
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jakarta_ee/jakarta_ee-icon.svg" alt="jakarta-ee" width="40" height="40"/>
   </a>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="70" height="40"/>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
+  
+  <!-- Frontend -->
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  
-    <a href="" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG-Images.png" alt="react" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwind" width="40" height="40"/>
-    </a>
-     <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.pngall.com/wp-content/uploads/15/React-Logo-PNG-Images.png" alt="tailwind" width="40" height="40"/>
-    </a>
-   <a href="" target="_blank" rel="noreferrer">
-    <img src="https://logodix.com/logo/1982136.jpg" alt="tailwind" width="40" height="40"/>
-    </a>
+  </a>
+  
+  <!-- Databases -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  
+  <!-- DevOps & Tools -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a>
+  
+  <!-- Frameworks -->
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://logodix.com/logo/1982136.jpg" alt="spring" width="40" height="40"/>
+  </a>
 </p>
-
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yamilobt8/yamilobt8/refs/heads/main/green.gif" alt="Kirby eating an endless stream of data" width="1500"  />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </p>
-<h3 align="center">"Coding is not just a skill, it's an art !"</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yamilobt8/yamilobt8/refs/heads/main/green.gif" alt="Green animation" width="1500" />
+</p>
+
+<h3 align="center">"Coding is not just a skill, it's an art!"</h3>
