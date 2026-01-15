@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jakarta_ee_logo.svg/1280px-Jakarta_ee_logo.svg.png" alt="jakarta-ee" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jakarta_ee_logo.svg/1280px-Jakarta_ee_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrFBRWXn2h5KqbAlRzD-YopncxPf3xB6HHlrFyg-NvJ_Z6t8Ohc1uNoDBRbR3fdbBYqUSxtBf69edW4r8MXtiRBjds7TzpVxEpd_hbn7_9Hw&s=10)" alt="jakarta-ee" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
