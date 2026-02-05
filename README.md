@@ -96,9 +96,10 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/springboot.svg" 
        alt="Spring Boot" width="40" height="40"/>
 </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/springboot.svg" 
+       alt="Spring Boot" width="40" height="40" style="filter: invert(43%) sepia(68%) saturate(501%) hue-rotate(92deg) brightness(97%) contrast(92%);"/>
+</a>
   
   <!-- Frameworks -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
