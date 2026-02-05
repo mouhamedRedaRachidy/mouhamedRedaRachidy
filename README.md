@@ -95,7 +95,7 @@
 
   <!-- Frameworks -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://imgs.search.brave.com/hr22y0LBT3oxyNNh8scJ6kaKXGLfUZSTF0xxsNt5hiw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93cC5s/b2dvcy1kb3dubG9h/ZC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDEvU3By/aW5nX0Jvb3RfTG9n/b19mdWxsLTMwMDB4/NzcxLnBuZw" alt="spring boot" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
