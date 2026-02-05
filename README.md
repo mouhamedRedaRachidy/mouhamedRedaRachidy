@@ -93,13 +93,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/springboot.svg" 
+
+
+  <img src="https://imgs.search.brave.com/hr22y0LBT3oxyNNh8scJ6kaKXGLfUZSTF0xxsNt5hiw/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly93cC5s/b2dvcy1kb3dubG9h/ZC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDEvU3By/aW5nX0Jvb3RfTG9n/b19mdWxsLTMwMDB4/NzcxLnBuZw" 
        alt="Spring Boot" width="40" height="40"/>
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/springboot.svg" 
-       alt="Spring Boot" width="40" height="40" style="filter: invert(43%) sepia(68%) saturate(501%) hue-rotate(92deg) brightness(97%) contrast(92%);"/>
-</a>
   
   <!-- Frameworks -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
